@@ -1,0 +1,31 @@
+
+[
+    {
+        "name": "Alex",
+        "hasFriend": true
+      },
+      {
+        "name": "Jack",
+        "hasFriend": true
+      },
+      {
+        "name": "Jesica",
+        "hasFriend": false
+      },
+      {
+        "name": "Sam",
+        "hasFriend": false
+      },
+      {
+        "name": "Richard",
+        "hasFriend": true
+      },
+      {
+        "name": "Edvard",
+        "hasFriend": false
+      },
+      {
+        "name": "Richard",
+        "hasFriend": true
+      }
+]
